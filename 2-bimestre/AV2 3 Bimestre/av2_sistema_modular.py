@@ -5,8 +5,6 @@
 # Data: 17/09/2026
 # ==============================================================================
 
-# Lista inicial de dados brutos
-# Formato: "nome_completo;cargo_ou_setor;telefone_ou_cpf"
 
 dados_brutos = [
     "  carlos eduardo silva;desenvolvedor;11988887777  ",
